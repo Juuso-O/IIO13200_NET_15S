@@ -1,0 +1,3 @@
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtävä2\bin\Debug\Tehtävä2.exe.config
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.exe
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.pdb
