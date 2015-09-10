@@ -1,12 +1,34 @@
-﻿<Window x:Class="IIO13200_15S.MainWindow"
+﻿<Window x:Class="Tehtava1.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:IIO13200_15S"
+        xmlns:local="clr-namespace:Tehtava1"
         mc:Ignorable="d"
-        Title="Tehtävä 1: K-S Ikkunat Oy" Height="350" Width="525" FontSize="18">
+        Title="Keski-Suomen Ikkunat Oy" Height="350" Width="525">
     <Grid>
-        
+        <TextBox x:Name="txtWindowWidth" HorizontalAlignment="Left" Height="26" Margin="387,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="1200" TextAlignment="Center" TextChanged="txtWindowWidth_TextChanged"/>
+        <TextBox x:Name="txtWindowHeight" HorizontalAlignment="Left" Height="26" Margin="387,41,0,0" TextWrapping="Wrap" Text="900" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.297,-1.642" TextAlignment="Center" TextChanged="txtWindowHeight_TextChanged"/>
+        <TextBox x:Name="txtBorderWidth" HorizontalAlignment="Left" Height="26" Margin="387,72,0,0" TextWrapping="Wrap" Text="45" VerticalAlignment="Top" Width="120" TextAlignment="Center" TextChanged="txtBorderWidth_TextChanged"/>
+        <Label x:Name="lblWindowHeight" Content="Ikkunan Korkeus (H):" HorizontalAlignment="Left" Margin="263,41,0,0" VerticalAlignment="Top" Height="26"/>
+        <Label x:Name="lblBorderWidth" Content="Karmipuun Leveys (W):" HorizontalAlignment="Left" Margin="252,72,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblWindowWidth" Content="Ikkunan Leveys (L):" HorizontalAlignment="Left" Margin="273,10,0,0" VerticalAlignment="Top" Height="26"/>
+        <Button x:Name="btnCountSurfaceAndRadius" Content="Laske pinta-ala ja piiri" HorizontalAlignment="Left" Margin="256,108,0,0" VerticalAlignment="Top" Width="251" RenderTransformOrigin="0.5,0.5" Height="67" Click="button_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.383"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Label x:Name="lblWindowSurface" Content="Ikkunan pinta-ala:" HorizontalAlignment="Left" Margin="278,189,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtWindowSurface" HorizontalAlignment="Left" Height="26" Margin="387,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False" TextAlignment="Center"/>
+        <TextBox x:Name="txtBorderSurface" HorizontalAlignment="Left" Height="26" Margin="387,279,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False" TextAlignment="Center"/>
+        <TextBox x:Name="txtBorderRadius" HorizontalAlignment="Left" Height="26" Margin="387,248,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False" TextAlignment="Center"/>
+        <Label x:Name="lblBorderRadius" Content="Karmin piiri:" HorizontalAlignment="Left" Margin="309,248,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblBorderSurface" Content="Karmin pinta-ala:" HorizontalAlignment="Left" Margin="282,279,0,0" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>

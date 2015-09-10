@@ -1,0 +1,59 @@
+D:\G7934\IIO13200\Tehtävä2\bin\Debug\Tehtävä2.exe.config
+D:\G7934\IIO13200\Tehtävä2\bin\Debug\Tehtävä2.exe
+D:\G7934\IIO13200\Tehtävä2\bin\Debug\Tehtävä2.pdb
+D:\G7934\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.csprojResolveAssemblyReference.cache
+D:\G7934\IIO13200\Tehtävä2\obj\Debug\MainWindow.g.cs
+D:\G7934\IIO13200\Tehtävä2\obj\Debug\App.g.cs
+D:\G7934\IIO13200\Tehtävä2\obj\Debug\Tehtävä2_MarkupCompile.cache
+D:\G7934\IIO13200\Tehtävä2\obj\Debug\Tehtävä2_MarkupCompile.lref
+D:\G7934\IIO13200\Tehtävä2\obj\Debug\MainWindow.baml
+D:\G7934\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.g.resources
+D:\G7934\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.Properties.Resources.resources
+D:\G7934\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.csproj.GenerateResource.Cache
+D:\G7934\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.exe
+D:\G7934\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.pdb
+D:\IIO13200\Tehtävä2\bin\Debug\Tehtävä2.exe.config
+D:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.exe
+D:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.pdb
+D:\IIO13200\Tehtävä2\bin\Debug\Tehtävä2.exe
+D:\IIO13200\Tehtävä2\bin\Debug\Tehtävä2.pdb
+D:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.csprojResolveAssemblyReference.cache
+D:\IIO13200\Tehtävä2\obj\Debug\MainWindow.g.cs
+D:\IIO13200\Tehtävä2\obj\Debug\App.g.cs
+D:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2_MarkupCompile.cache
+D:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2_MarkupCompile.lref
+D:\IIO13200\Tehtävä2\obj\Debug\MainWindow.baml
+D:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.g.resources
+D:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.Properties.Resources.resources
+D:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.csproj.GenerateResource.Cache
+S:\IIO13200\Tehtävä2\bin\Debug\Tehtävä2.exe.config
+S:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.exe
+S:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.pdb
+S:\IIO13200\Tehtävä2\bin\Debug\Tehtävä2.exe
+S:\IIO13200\Tehtävä2\bin\Debug\Tehtävä2.pdb
+S:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.csprojResolveAssemblyReference.cache
+S:\IIO13200\Tehtävä2\obj\Debug\MainWindow.g.cs
+S:\IIO13200\Tehtävä2\obj\Debug\App.g.cs
+S:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2_MarkupCompile.cache
+S:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2_MarkupCompile.lref
+S:\IIO13200\Tehtävä2\obj\Debug\MainWindow.baml
+S:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.g.resources
+S:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.Properties.Resources.resources
+S:\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.csproj.GenerateResource.Cache
+F:\Koulu\Vuosi 3\IIO13200\Tehtävä2\bin\Debug\Tehtävä2.exe.config
+F:\Koulu\Vuosi 3\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.exe
+F:\Koulu\Vuosi 3\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.pdb
+F:\Koulu\Vuosi 3\IIO13200\Tehtävä2\bin\Debug\Tehtävä2.exe
+F:\Koulu\Vuosi 3\IIO13200\Tehtävä2\bin\Debug\Tehtävä2.pdb
+F:\Koulu\Vuosi 3\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.csprojResolveAssemblyReference.cache
+F:\Koulu\Vuosi 3\IIO13200\Tehtävä2\obj\Debug\MainWindow.g.cs
+F:\Koulu\Vuosi 3\IIO13200\Tehtävä2\obj\Debug\App.g.cs
+F:\Koulu\Vuosi 3\IIO13200\Tehtävä2\obj\Debug\Tehtävä2_MarkupCompile.cache
+F:\Koulu\Vuosi 3\IIO13200\Tehtävä2\obj\Debug\Tehtävä2_MarkupCompile.lref
+F:\Koulu\Vuosi 3\IIO13200\Tehtävä2\obj\Debug\MainWindow.baml
+F:\Koulu\Vuosi 3\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.g.resources
+F:\Koulu\Vuosi 3\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.Properties.Resources.resources
+F:\Koulu\Vuosi 3\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.csproj.GenerateResource.Cache
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtävä2\bin\Debug\Tehtävä2.exe.config
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.exe
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtävä2\obj\Debug\Tehtävä2.pdb
