@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pelaajat>
+  <Pelaaja>
+    <Etunimi>ykko</Etunimi>
+    <Sukunimi>asdasd</Sukunimi>
+    <Siirtohinta>3333</Siirtohinta>
+    <Seura>Ilves</Seura>
+  </Pelaaja>
+  <Pelaaja>
+    <Etunimi>kakko</Etunimi>
+    <Sukunimi>dasdas</Sukunimi>
+    <Siirtohinta>333</Siirtohinta>
+    <Seura>TPS</Seura>
+  </Pelaaja>
+</Pelaajat>

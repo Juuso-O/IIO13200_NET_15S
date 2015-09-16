@@ -1,6 +1,7 @@
 ﻿using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Xml.Linq;
 
 namespace Tehtava3
 {
@@ -26,12 +28,30 @@ namespace Tehtava3
         Joukkue joukkue = new Joukkue();
         List<Pelaaja> pelaajalista = new List<Pelaaja>();
         int editIndex = 0;
+        string filepath = ConfigurationManager.AppSettings.Get("filePath");
 
-       
 
         public MainWindow()
         {
             InitializeComponent();
+
+            if (File.Exists(filepath))
+            {
+                XDocument doc = XDocument.Load(filepath);
+                var tmp = from pelaaja in doc.Descendants("Pelaaja")
+                                   select new
+                                   {
+                                       Etunimi = pelaaja.Element("Etunimi").Value,
+                                       Sukunimi = pelaaja.Element("Sukunimi").Value,
+                                       Siirtohinta = pelaaja.Element("Siirtohinta").Value,
+                                       Seura = pelaaja.Element("Seura").Value,
+                                   };
+
+                foreach (var pelaaja in tmp)
+                {
+                    pelaajalista.Add(new Pelaaja(pelaaja.Etunimi, pelaaja.Sukunimi, pelaaja.Seura, double.Parse(pelaaja.Siirtohinta)));
+                }
+            }
         }
 
         private void CmbSeura_Initialized(object sender, EventArgs e)
@@ -109,6 +129,21 @@ namespace Tehtava3
 
         private void btnLopetus_Click(object sender, RoutedEventArgs e)
         {
+            //Tallennus lopettaess xml muotoon filuun pelaajat.xml
+
+            XDocument doc = new XDocument(
+                new XElement("Pelaajat",
+                from player in pelaajalista
+                select new XElement("Pelaaja",
+                    new XElement("Etunimi", player.EtuNimi),
+                    new XElement("Sukunimi", player.SukuNimi),
+                    new XElement("Siirtohinta", player.Siirtohinta),
+                    new XElement("Seura", player.Seura)
+                    )
+                )
+            );
+            doc.Save(filepath);
+
             Environment.Exit(0);
         }
 
