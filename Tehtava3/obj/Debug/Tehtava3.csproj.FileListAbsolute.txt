@@ -1,0 +1,42 @@
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava3\bin\Debug\Tehtava3.exe.config
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava3\obj\Debug\Tehtava3.csprojResolveAssemblyReference.cache
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava3\obj\Debug\MainWindow.g.cs
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava3\obj\Debug\App.g.cs
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava3\obj\Debug\Tehtava3_MarkupCompile.cache
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava3\obj\Debug\Tehtava3_MarkupCompile.lref
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava3\bin\Debug\Tehtava3.exe
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava3\bin\Debug\Tehtava3.pdb
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava3\obj\Debug\MainWindow.baml
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava3\obj\Debug\Tehtava3.g.resources
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava3\obj\Debug\Tehtava3.Properties.Resources.resources
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava3\obj\Debug\Tehtava3.csproj.GenerateResource.Cache
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava3\obj\Debug\Tehtava3.exe
+F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava3\obj\Debug\Tehtava3.pdb
+D:\G7934\IIO13200\Tehtava3\bin\Debug\Tehtava3.exe.config
+D:\G7934\IIO13200\Tehtava3\obj\Debug\Tehtava3.exe
+D:\G7934\IIO13200\Tehtava3\obj\Debug\Tehtava3.pdb
+D:\G7934\IIO13200\Tehtava3\obj\Debug\Tehtava3.csprojResolveAssemblyReference.cache
+D:\G7934\IIO13200\Tehtava3\obj\Debug\MainWindow.g.cs
+D:\G7934\IIO13200\Tehtava3\obj\Debug\App.g.cs
+D:\G7934\IIO13200\Tehtava3\obj\Debug\Tehtava3_MarkupCompile.cache
+D:\G7934\IIO13200\Tehtava3\obj\Debug\Tehtava3_MarkupCompile.lref
+D:\G7934\IIO13200\Tehtava3\bin\Debug\Tehtava3.exe
+D:\G7934\IIO13200\Tehtava3\bin\Debug\Tehtava3.pdb
+D:\G7934\IIO13200\Tehtava3\obj\Debug\MainWindow.baml
+D:\G7934\IIO13200\Tehtava3\obj\Debug\Tehtava3.g.resources
+D:\G7934\IIO13200\Tehtava3\obj\Debug\Tehtava3.Properties.Resources.resources
+D:\G7934\IIO13200\Tehtava3\obj\Debug\Tehtava3.csproj.GenerateResource.Cache
+S:\Vuosi 3\IIO13200\Tehtava3\bin\Debug\Tehtava3.exe.config
+S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\Tehtava3.exe
+S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\Tehtava3.pdb
+S:\Vuosi 3\IIO13200\Tehtava3\bin\Debug\Tehtava3.exe
+S:\Vuosi 3\IIO13200\Tehtava3\bin\Debug\Tehtava3.pdb
+S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\Tehtava3.csprojResolveAssemblyReference.cache
+S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\MainWindow.g.cs
+S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\App.g.cs
+S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\Tehtava3_MarkupCompile.cache
+S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\Tehtava3_MarkupCompile.lref
+S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\MainWindow.baml
+S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\Tehtava3.g.resources
+S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\Tehtava3.Properties.Resources.resources
+S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\Tehtava3.csproj.GenerateResource.Cache
