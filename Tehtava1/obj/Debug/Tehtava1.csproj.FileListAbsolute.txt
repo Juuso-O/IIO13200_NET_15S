@@ -24,3 +24,17 @@ F:\Koulu\Vuosi 3\IIO13200\Tehtava1\obj\Debug\Ikkunat.pdb
 F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava1\bin\Debug\Ikkunat.exe.config
 F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava1\obj\Debug\Ikkunat.exe
 F:\Koulu\Vuosi 3\dotNET\IIO13200\Tehtava1\obj\Debug\Ikkunat.pdb
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava1\bin\Debug\Ikkunat.exe.config
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava1\obj\Debug\Ikkunat.exe
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava1\obj\Debug\Ikkunat.pdb
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava1\bin\Debug\Ikkunat.exe
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava1\bin\Debug\Ikkunat.pdb
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava1\obj\Debug\Tehtava1.csprojResolveAssemblyReference.cache
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava1\obj\Debug\MainWindow.g.cs
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava1\obj\Debug\App.g.cs
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava1\obj\Debug\Ikkunat_MarkupCompile.cache
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava1\obj\Debug\Ikkunat_MarkupCompile.lref
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava1\obj\Debug\MainWindow.baml
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava1\obj\Debug\Ikkunat.g.resources
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava1\obj\Debug\Tehtava1.Properties.Resources.resources
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava1\obj\Debug\Tehtava1.csproj.GenerateResource.Cache

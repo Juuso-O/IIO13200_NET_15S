@@ -12,4 +12,10 @@
     <Siirtohinta>333</Siirtohinta>
     <Seura>TPS</Seura>
   </Pelaaja>
+  <Pelaaja>
+    <Etunimi>asdasd</Etunimi>
+    <Sukunimi>dsadasdasd</Sukunimi>
+    <Siirtohinta>3333124125</Siirtohinta>
+    <Seura>KooKoo</Seura>
+  </Pelaaja>
 </Pelaajat>

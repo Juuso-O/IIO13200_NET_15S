@@ -40,3 +40,17 @@ S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\MainWindow.baml
 S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\Tehtava3.g.resources
 S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\Tehtava3.Properties.Resources.resources
 S:\Vuosi 3\IIO13200\Tehtava3\obj\Debug\Tehtava3.csproj.GenerateResource.Cache
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava3\bin\Debug\Tehtava3.exe.config
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava3\bin\Debug\Tehtava3.exe
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava3\bin\Debug\Tehtava3.pdb
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava3\obj\Debug\Tehtava3.csprojResolveAssemblyReference.cache
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava3\obj\Debug\MainWindow.g.cs
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava3\obj\Debug\App.g.cs
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava3\obj\Debug\Tehtava3_MarkupCompile.cache
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava3\obj\Debug\Tehtava3_MarkupCompile.lref
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava3\obj\Debug\MainWindow.baml
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava3\obj\Debug\Tehtava3.g.resources
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava3\obj\Debug\Tehtava3.Properties.Resources.resources
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava3\obj\Debug\Tehtava3.csproj.GenerateResource.Cache
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava3\obj\Debug\Tehtava3.exe
+S:\Vuosi 3\IIO13200_NET_15S\Tehtava3\obj\Debug\Tehtava3.pdb
