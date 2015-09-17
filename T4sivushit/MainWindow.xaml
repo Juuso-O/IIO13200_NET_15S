@@ -1,0 +1,16 @@
+﻿<Window x:Class="T4sivushit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:T4sivushit"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="193.822" Width="162.986">
+    <Grid>
+        <Button x:Name="btn1" Content="T0 XmlDataProvider" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="133" Click="btn1_Click"/>
+        <Button x:Name="btn2" Content="T1 XmlDocument" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Width="133" Click="btn2_Click"/>
+        <Button x:Name="btn3" Content="T3 XElement" HorizontalAlignment="Left" Margin="10,64,0,0" VerticalAlignment="Top" Width="133"/>
+        <Button x:Name="btn4" Content="T7 XmlSerializer" HorizontalAlignment="Left" Margin="10,91,0,0" VerticalAlignment="Top" Width="133"/>
+
+    </Grid>
+</Window>

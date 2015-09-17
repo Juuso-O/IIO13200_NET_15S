@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava2", "Tehtävä2\Teht
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava3", "Tehtava3\Tehtava3.csproj", "{BF587A41-EE73-49E7-86C0-7F26F2E58B03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava4", "Tehtava4\Tehtava4.csproj", "{71DA8CC4-13CE-4573-A2AB-58D5B79DC249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T4sivushit", "T4sivushit\T4sivushit.csproj", "{0049C505-D692-428A-99DC-C4E9FCB9483E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{BF587A41-EE73-49E7-86C0-7F26F2E58B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF587A41-EE73-49E7-86C0-7F26F2E58B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF587A41-EE73-49E7-86C0-7F26F2E58B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DA8CC4-13CE-4573-A2AB-58D5B79DC249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DA8CC4-13CE-4573-A2AB-58D5B79DC249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DA8CC4-13CE-4573-A2AB-58D5B79DC249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DA8CC4-13CE-4573-A2AB-58D5B79DC249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0049C505-D692-428A-99DC-C4E9FCB9483E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0049C505-D692-428A-99DC-C4E9FCB9483E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0049C505-D692-428A-99DC-C4E9FCB9483E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0049C505-D692-428A-99DC-C4E9FCB9483E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
