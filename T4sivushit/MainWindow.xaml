@@ -7,10 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="193.822" Width="162.986">
     <Grid>
-        <Button x:Name="btn1" Content="T0 XmlDataProvider" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="133" Click="btn1_Click"/>
-        <Button x:Name="btn2" Content="T1 XmlDocument" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Width="133" Click="btn2_Click"/>
-        <Button x:Name="btn3" Content="T3 XElement" HorizontalAlignment="Left" Margin="10,64,0,0" VerticalAlignment="Top" Width="133"/>
-        <Button x:Name="btn4" Content="T7 XmlSerializer" HorizontalAlignment="Left" Margin="10,91,0,0" VerticalAlignment="Top" Width="133"/>
+        <Button x:Name="btn1" Content="T0 Xml filestä" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="133" Click="btn1_Click"/>
+        <Button x:Name="btn2" Content="T1 XmlDocument" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Width="133" Click="btn2_Click" IsEnabled="False"/>
+        <Button x:Name="btn3" Content="T3 XElement" HorizontalAlignment="Left" Margin="10,64,0,0" VerticalAlignment="Top" Width="133" IsEnabled="False"/>
+        <Button x:Name="btn4" Content="T7 XmlSerializer" HorizontalAlignment="Left" Margin="10,91,0,0" VerticalAlignment="Top" Width="133" IsEnabled="False"/>
 
     </Grid>
 </Window>

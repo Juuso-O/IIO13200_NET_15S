@@ -43,6 +43,8 @@ namespace T4sivushit
             dgWines.Columns.Add(maaColumn);
             dgWines.Columns.Add(arvioColumn);
 
+            comboBox.Items.Add("Kaikki");
+
 
             if (File.Exists(filePath))
             {
@@ -85,7 +87,7 @@ namespace T4sivushit
                           };
                 foreach (var viini in tmp)
                 {
-                    if(viini.maa.Equals(currentMaa))
+                    if(viini.maa.Equals(currentMaa) || (currentMaa == "Kaikki"))
                     {
                         dgWines.Items.Add(viini);
                     }
