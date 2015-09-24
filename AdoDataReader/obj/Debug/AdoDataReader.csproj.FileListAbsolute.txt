@@ -1,0 +1,6 @@
+S:\Vuosi 3\IIO13200_NET_15S\AdoDataReader\bin\Debug\AdoDataReader.exe.config
+S:\Vuosi 3\IIO13200_NET_15S\AdoDataReader\obj\Debug\AdoDataReader.exe
+S:\Vuosi 3\IIO13200_NET_15S\AdoDataReader\obj\Debug\AdoDataReader.pdb
+S:\Vuosi 3\IIO13200_NET_15S\AdoDataReader\bin\Debug\AdoDataReader.exe
+S:\Vuosi 3\IIO13200_NET_15S\AdoDataReader\bin\Debug\AdoDataReader.pdb
+S:\Vuosi 3\IIO13200_NET_15S\AdoDataReader\obj\Debug\AdoDataReader.csprojResolveAssemblyReference.cache
