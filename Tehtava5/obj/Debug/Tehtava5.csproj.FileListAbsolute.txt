@@ -12,3 +12,6 @@ S:\Vuosi 3\IIO13200_NET_15S\Tehtava5\obj\Debug\Tehtava5.Properties.Resources.res
 S:\Vuosi 3\IIO13200_NET_15S\Tehtava5\obj\Debug\Tehtava5.csproj.GenerateResource.Cache
 S:\Vuosi 3\IIO13200_NET_15S\Tehtava5\obj\Debug\Tehtava5.exe
 S:\Vuosi 3\IIO13200_NET_15S\Tehtava5\obj\Debug\Tehtava5.pdb
+D:\Koulu\Vuosi 3\dotNET\IIO13200_NET_15S\Tehtava5\bin\Debug\Tehtava5.exe.config
+D:\Koulu\Vuosi 3\dotNET\IIO13200_NET_15S\Tehtava5\obj\Debug\Tehtava5.exe
+D:\Koulu\Vuosi 3\dotNET\IIO13200_NET_15S\Tehtava5\obj\Debug\Tehtava5.pdb
