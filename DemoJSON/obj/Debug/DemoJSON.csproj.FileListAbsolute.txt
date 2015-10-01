@@ -1,0 +1,15 @@
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\bin\Debug\DemoJSON.exe.config
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\bin\Debug\DemoJSON.exe
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\bin\Debug\DemoJSON.pdb
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\bin\Debug\Newtonsoft.Json.dll
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\obj\Debug\DemoJSON.csprojResolveAssemblyReference.cache
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\obj\Debug\MainWindow.g.cs
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\obj\Debug\App.g.cs
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\obj\Debug\DemoJSON_MarkupCompile.cache
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\obj\Debug\DemoJSON_MarkupCompile.lref
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\obj\Debug\MainWindow.baml
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\obj\Debug\DemoJSON.g.resources
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\obj\Debug\DemoJSON.Properties.Resources.resources
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\obj\Debug\DemoJSON.csproj.GenerateResource.Cache
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\obj\Debug\DemoJSON.exe
+S:\Vuosi 3\IIO13200_NET_15S\DemoJSON\obj\Debug\DemoJSON.pdb
