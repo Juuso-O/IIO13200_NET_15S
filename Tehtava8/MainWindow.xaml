@@ -1,0 +1,39 @@
+﻿<Window x:Class="Tehtava8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tehtava8"
+        mc:Ignorable="d"
+        Title="Palaute" Height="350" Width="525">
+    <Grid>
+        <TabControl x:Name="tabControl" HorizontalAlignment="Left" Margin="0,0,0,0" IsSynchronizedWithCurrentItem="False" Width="517">
+            <TabItem Header="Osio 1">
+                <Grid Background="#FFE5E5E5">
+                    <Label x:Name="lblAnnaPalaute" Content="Anna palaute" Margin="10,0,10,240" FontSize="24"/>
+                    <Label x:Name="lvlPVM" Content="Päivämäärä" Margin="10,50,10,210" Height="30" />
+                    <DatePicker x:Name="txtPVM" Margin="95,50,10,210" Height="30"/>
+                    <Label x:Name="lblNimi" Content="Nimi" Margin="10,80,10,180" Height="30" />
+                    <TextBox x:Name="txtNimi" Margin="95,80,10,180" />
+                    <Label x:Name="lblOlenOppinut" Content="Olen oppinut:" Margin="10,110,10,150" Height="30" />
+                    <TextBox x:Name="txtOlenOppinut" Margin="95,110,10,90" />
+                    <Label x:Name="lblHaluanOppia" Content="Haluan oppia:" Margin="10,200,10,60" Height="30" />
+                    <TextBox x:Name="txtHaluanOppia" Margin="95,200,10,10" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="Osio 2">
+                <Grid Background="#FFE5E5E5">
+                    <Label x:Name="lblPalauteJatkuu" Content="Palaute jatkuu" Margin="10,0,10,240" FontSize="24"/>
+                    <Label x:Name="lvlHyvaa" Content="Hyvaa:" Margin="10,50,10,210" Height="30" />
+                    <TextBox x:Name="txtHyvaa" Margin="95,50,10,180"/>
+                    <Label x:Name="lblParannettavaa" Content="Parannettavaa:" Margin="10,110,10,150" Height="30" />
+                    <TextBox x:Name="txtParannettavaa" Margin="95,110,10,120" />
+                    <Label x:Name="lblMuuta" Content="Muuta:" Margin="10,170,10,90" Height="30" />
+                    <TextBox x:Name="txtMuuta" Margin="95,170,10,60" />
+                    <Button x:Name="btnSend" Content="Lähetä Palaute" Margin="95,230,10,10" Click="btnSend_Click"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

@@ -1,0 +1,8 @@
+S:\Vuosi 3\IIO13200_NET_15S\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+S:\Vuosi 3\IIO13200_NET_15S\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+S:\Vuosi 3\IIO13200_NET_15S\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+S:\Vuosi 3\IIO13200_NET_15S\UnitTestProject2\bin\Debug\WinLotto.exe
+S:\Vuosi 3\IIO13200_NET_15S\UnitTestProject2\bin\Debug\WinLotto.pdb
+S:\Vuosi 3\IIO13200_NET_15S\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+S:\Vuosi 3\IIO13200_NET_15S\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+S:\Vuosi 3\IIO13200_NET_15S\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
