@@ -23,7 +23,7 @@ namespace Tehtava8
     public partial class MainWindow : Window
     {
         List<Palaute> palauteLista = new List<Palaute>();
-        string filePath = Tehtava8.Properties.Settings.Default.address;
+        string filePath = Tehtava8.Properties.Settings.Default.w;
 
         public MainWindow()
         {

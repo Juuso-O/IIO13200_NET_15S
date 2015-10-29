@@ -26,7 +26,7 @@ namespace Tehtava8.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("\\\\ghost.labranet.jamk.fi\\temp\\Palautteet.xml")]
-        public string address {
+        public string w {
             get {
                 return ((string)(this["address"]));
             }
